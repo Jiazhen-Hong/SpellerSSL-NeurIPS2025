@@ -6,8 +6,12 @@ This repository provides the P300 aggregation algorithm, pretraining, fine-tunin
 2025-09-22: Paper accepted at the [Brain & Mind @ NeurIPS 2025](https://data-brain-mind.github.io/).  
 The paper is in the proceedings. Preprint available on arXiv.
 
-## Summary
+## Overview
+<p align="center">
+  <img src="Figures/Overview.png" alt="Overview" width="720">
+</p>
 
+## Summary
 - Goal: improve P300 speller accuracy, speed, calibration efficiency  
 - Method: reconstruction-based pretraining with a 1D U-Net encoder and a light ERP head  
 - P300 aggregation: code-aligned grouping of repetitions to enhance SNR  
@@ -34,11 +38,7 @@ The paper is in the proceedings. Preprint available on arXiv.
 | **SpellerSSL (In-domain)**    | **21.86** | **14.04** |
 | **SpellerSSL (In-domain, 60\%)**    | **19.62** | **13.52** |
 
-## Overview
 
-<p align="center">
-  <img src="Figures/Overview.png" alt="Overview" width="720">
-</p>
 
 ## P300 Aggregation
 
