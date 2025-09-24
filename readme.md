@@ -2,6 +2,10 @@
 Self-Supervised Learning with P300 Aggregation for Speller BCIs.  
 This repository provides the P300 aggregation algorithm, pretraining, fine-tuning, and evaluation on public datasets, with figures and checkpoints.
 
+# Update
+2025-09-22: Paper accepted at the Data on the Brain & Mind @ NeurIPS 2025.
+The paper is in the proceedings. Preprint available on arXiv.
+
 ## Summary
 
 - Goal: improve P300 speller accuracy, speed, calibration efficiency  
