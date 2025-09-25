@@ -4,7 +4,9 @@ This repository provides the P300 aggregation algorithm, pretraining, fine-tunin
 
 # Update
 2025-09-22: Paper accepted at the [Brain & Mind @ NeurIPS 2025](https://data-brain-mind.github.io/).  
-The paper is in the proceedings. Preprint available on arXiv.
+The paper is in the proceedings. Preprint available on [arXiv](https://arxiv.org/abs/2509.19401).
+
+
 
 ## Overview
 <p align="center">
